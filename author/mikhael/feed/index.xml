@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Admin LEA &#8211; Egura Project</title>
-	<atom:link href="/author/mikhael/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://miguelangelmagdalena.github.io/eguraproject/author/mikhael/feed/" rel="self" type="application/rss+xml" />
+	<link>https://miguelangelmagdalena.github.io/eguraproject</link>
 	<description>It is a mandatory issue for us at Egura Project to achieve our goals in this #NonProfit #GlobalInitiative #InternationalCooperation Project to offer #EasyWater &#38; #EasyEnergy from the seawater* &#38; sunlight at tropical &#38; subtropical latitudes of our beloved planet and societies. </description>
 	<lastBuildDate>Mon, 08 Nov 2021 13:22:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>/wp-content/uploads/sites/3/2021/10/cropped-egura_project_icon-32x32.png</url>
+	<url>https://miguelangelmagdalena.github.io/eguraproject/wp-content/uploads/sites/3/2021/10/cropped-egura_project_icon-32x32.png</url>
 	<title>Admin LEA &#8211; Egura Project</title>
-	<link></link>
+	<link>https://miguelangelmagdalena.github.io/eguraproject</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Bitácora de correos enviados pro Egura Business Div.: Colombia 2021​</title>
-		<link>/bitacora-de-correos-enviados-pro-egura-business-div-colombia-2021/</link>
-					<comments>/bitacora-de-correos-enviados-pro-egura-business-div-colombia-2021/#comments</comments>
+		<link>https://miguelangelmagdalena.github.io/eguraproject/bitacora-de-correos-enviados-pro-egura-business-div-colombia-2021/</link>
+					<comments>https://miguelangelmagdalena.github.io/eguraproject/bitacora-de-correos-enviados-pro-egura-business-div-colombia-2021/#comments</comments>
 		
 		<dc:creator><![CDATA[Admin LEA]]></dc:creator>
 		<pubDate>Tue, 19 Oct 2021 19:31:46 +0000</pubDate>
 				<category><![CDATA[Sin categoría]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://miguelangelmagdalena.github.io/eguraproject/?p=1</guid>
 
-					<description><![CDATA[Bitácora de correos enviados pro Egura Business Div.: Colombia 2021 Green Energy &#38; Clean Water Bitácora de correos enviados pro Egura Business Div.: Colombia 2021 Buendía estimadas Señorías de Colombia, gracias por vernos y escucharnos el pasado 29 de septiembre de 2021. Como dijimos, ahora comparto algunos documentos interesantes para ser leidos por vuestros ingenieros &#8230;<p class="read-more"> <a class="" href="/bitacora-de-correos-enviados-pro-egura-business-div-colombia-2021/"> <span class="screen-reader-text">Bitácora de correos enviados pro Egura Business Div.: Colombia 2021​</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Bitácora de correos enviados pro Egura Business Div.: Colombia 2021 Green Energy &#38; Clean Water Bitácora de correos enviados pro Egura Business Div.: Colombia 2021 Buendía estimadas Señorías de Colombia, gracias por vernos y escucharnos el pasado 29 de septiembre de 2021. Como dijimos, ahora comparto algunos documentos interesantes para ser leidos por vuestros ingenieros &#8230;<p class="read-more"> <a class="" href="https://miguelangelmagdalena.github.io/eguraproject/bitacora-de-correos-enviados-pro-egura-business-div-colombia-2021/"> <span class="screen-reader-text">Bitácora de correos enviados pro Egura Business Div.: Colombia 2021​</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-338a7e8a elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="338a7e8a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -106,7 +106,7 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/bitacora-de-correos-enviados-pro-egura-business-div-colombia-2021/feed/</wfw:commentRss>
+					<wfw:commentRss>https://miguelangelmagdalena.github.io/eguraproject/bitacora-de-correos-enviados-pro-egura-business-div-colombia-2021/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
